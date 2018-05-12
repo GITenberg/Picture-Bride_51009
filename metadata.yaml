@@ -1,4 +1,8 @@
 _repo: Picture-Bride_51009
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51009-h/images/cover.jpg
 creator:
   author:
     agent_name: Samachson, Joseph
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51009#Picture-Bride
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-23'
 gutenberg_type: Text
